@@ -29,7 +29,7 @@ github_username:  heliumenabler
 
 # Build settings
 future: true
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
