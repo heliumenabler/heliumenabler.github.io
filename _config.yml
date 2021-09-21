@@ -29,7 +29,7 @@ github_username:  heliumenabler
 
 # Build settings
 future: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
